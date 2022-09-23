@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: python-openhab-itemevents
-Version: 0.1.0
+Version: 0.1.1
 Summary: A simple program for accessing the ItemEvents of openHAB by using the server-sent events from the openHAB REST API. Whether via the cloud or locally.
 Home-page: https://github.com/Michdo93/python-openhab-itemevents
 Download-URL: https://github.com/Michdo93/python-openhab-itemevents
