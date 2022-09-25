@@ -58,8 +58,6 @@ setup.py
 .eggs/tomli-2.0.1-py3.8.egg/tomli/_re.py
 .eggs/tomli-2.0.1-py3.8.egg/tomli/_types.py
 .eggs/tomli-2.0.1-py3.8.egg/tomli/py.typed
-dist/python_openhab_itemevents-0.0.0-py3-none-any.whl
-dist/python_openhab_itemevents-0.1.0-py3-none-any.whl
 openhab/__init__.py
 openhab/events.py
 python_openhab_itemevents.egg-info/PKG-INFO
